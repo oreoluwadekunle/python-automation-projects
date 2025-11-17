@@ -1,7 +1,7 @@
 # Chapter 2: Flow Control
 
 ## Projects
--[dishonestcapacity.py](./dishonectcapacity.py)
+-[dishonestcapacity.py](./dishonestcapacity.py)
 -
 -
 
