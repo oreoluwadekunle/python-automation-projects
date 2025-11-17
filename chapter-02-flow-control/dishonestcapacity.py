@@ -18,3 +18,4 @@ advertised_capacity = float(advertised_capacity)
 real_capacity = str(round(advertised_capacity * discrepancy, 2))
 
 print('The actual capacity is ' + real_capacity + ' ' + unit)
+#print(f"The actual capacity is {real_capacity} {unit}")
