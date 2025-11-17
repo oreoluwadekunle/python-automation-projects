@@ -18,3 +18,38 @@ This repository contains all ,y practice projects and exercises as i learn pytho
 ## Coming Up
 
 
+# What I'm Learning
+
+-Core Python Fundamentals - Variables, data types, control flow
+-Functions & Modules - Writing reusable code
+-Data Structures - Lists, dictionaries, tuples
+-File Operations - Reading, writing, organizing files
+-Automation - Scripts that save time and effort
+-Web Scraping - Extracting data from websites
+-Error Handling - Debugging and handling exceptions
+
+# About Me
+I'm Oreoluwa Adekunle, a 300-level Computer Science student at [Your University]. I'm on a journey to become a skilled software engineer who can identify problems and create solutions through code.
+
+# My Learning Philosophy
+I believe in:
+
+-Learning by doing - Building projects, not just reading
+-Consistent progress - Code every day, even if just for 30 minutes
+-Public learning - Sharing my journey to stay accountable
+
+# Other Projects
+Check out my other work:
+
+[Web Development Projects - HTML, CSS, JavaScript](./MyProjects/web-development-projects/)
+
+Connect With Me
+
+GitHub: @oreoluwaadekunle
+
+
+Status: Actively Learning 🚀
+Last Updated: November 17 2025
+Current Focus: Debugging (Chapter 5)
+
+
