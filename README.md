@@ -29,7 +29,7 @@ This repository contains all ,y practice projects and exercises as i learn pytho
 -Error Handling - Debugging and handling exceptions
 
 # About Me
-I'm Oreoluwa Adekunle, a 300-level Computer Science student at [Your University]. I'm on a journey to become a skilled software engineer who can identify problems and create solutions through code.
+I'm Oreoluwa Adekunle, a 300-level Computer Science student at FUNAAB. I'm on a journey to become a skilled software engineer who can identify problems and create solutions through code.
 
 # My Learning Philosophy
 I believe in:
@@ -41,7 +41,7 @@ I believe in:
 # Other Projects
 Check out my other work:
 
-[Web Development Projects - HTML, CSS, JavaScript](./MyProjects/web-development-projects/)
+[Web Development Projects - HTML, CSS, JavaScript](../MyProjects/web-development-projects/)
 
 Connect With Me
 
